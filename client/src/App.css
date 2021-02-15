@@ -17,5 +17,5 @@
 
 .fade-exit-active {
    opacity: .01;
-   transition: opacity 500ms ease-in;
+   transition: opacity 400ms ease-in;
 }
